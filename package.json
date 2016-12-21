@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kayran/jstdd.git"
+    "url": "git+https://github.com/kayran/jstdd.git"
   },
   "keywords": [
     "JS",
@@ -19,5 +19,6 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/kayran/jstdd/issues"
-  }
+  },
+  "homepage": "https://github.com/kayran/jstdd#readme"
 }
